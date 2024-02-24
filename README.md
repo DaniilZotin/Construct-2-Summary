@@ -55,6 +55,8 @@ $\color{#FF0000}{{Hard}}$ - Different ways to use storages, browsers etc, work w
 
 ### Bunny Jumper
 #### Doodle jump but with bunny. 
+![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/dcef6669-90d2-4c3c-a762-741bc5c342cd)
+
 
 
 
