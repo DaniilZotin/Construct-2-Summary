@@ -63,6 +63,14 @@ $\color{#FF0000}{{Hard}}$ - Different ways to use storages, browsers etc, work w
 ![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/0ea4bad4-faa3-4281-84f2-10ef00e7961f)
 
 
+### Space walk - $\color{#55AE5B}{{Easy}}$
+#### Your player loves space, but meteorites prevent them from enjoying it
+![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/b6c5daaa-8493-42ec-b89a-446ab4fe56f6)
+
+
+### $\color{#FF0000}{{Hard}}$. Usually complex games are commercial projects and I can't show them here
+
+
 
 
 [Construct]: https://img.shields.io/badge/construct2-2A7BA0?style=for-the-badge&logo=construct3&logoColor=white
