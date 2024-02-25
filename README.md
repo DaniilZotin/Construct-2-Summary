@@ -53,10 +53,14 @@ $\color{#FF0000}{{Hard}}$ - Different ways to use storages, browsers etc, work w
 #### A very popular game, It has a lot of tutorials however without animation with apple and knife falling, in my game I have implemented these functionalities, and downloaded sprites from the original game.
 ![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/27bb5b48-a771-4f3c-b7af-363c297e6ba1)
 
-### Bunny Jumper
+### Bunny Jumper - $\color{#E3C678}{{Medium}}$
 #### Doodle jump but with bunny. 
 ![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/dcef6669-90d2-4c3c-a762-741bc5c342cd)
 
+
+### Dino Chorome - $\color{#55AE5B}{{Easy}}$ 
+#### Enemies and traps threaten you, you must avoid them
+![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/0ea4bad4-faa3-4281-84f2-10ef00e7961f)
 
 
 
