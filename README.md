@@ -13,21 +13,26 @@
 
 
 ## Introduction 
-Hi my name is Daniil, I am a developer specializing in different technologies, one of them is  Construct 2. I worked for Construct 2 Mentor for 4 years and here I will show you several of my projects.
+Hi my name is Daniil, I am a developer specializing in different technologies, one of them is  Construct. I worked for Construct 2 Mentor for 4 years and here I will show you several of my projects.
 
 ## Important
-Many of my projects are not my private property, I have sold them, that is why in this repo you will see not one game from tutorial or official Construct documentation, however I upgraded functionality for these projects. 
+Each of the games follows this pattern:
+1. Optimized for Android and iOS
+2. Has localization in different languages ​​(usually 8)
+3. Saving game progress at different stages
+4. Using different plugins
+5. The project architecture is clear
+6. Adapted to different screens
+
+All these games are commercial, they are either under development or the client has already received them
+
+Usually the development of one project takes 3-5 months, most games are written only by me, but some with the participation of more than one developer
 
 ## Stack of technologies
 * [![Construct][Construct]][Construct-url]
 * [![JavaScript][JavaScript]][JavaScript-url]
 * [![NodeJs][NodeJs]][NodeJs-url]
 
-## Levels
-After each game I wrote the difficulty level of creation</br> 
-$\color{#55AE5B}{{Easy}}$ - Easy mechanics, elementary behaviors are used, logic is simple, components are not complex</br>
-$\color{#E3C678}{{Medium}}$ - Loops, behaviors are written manually, animations are linked to events, several complex components can be used</br>
-$\color{#FF0000}{{Hard}}$ - Different ways to use storages, browsers etc, work with JS, interaction animation is must have, more that 10 layouts
 
 ## Games
 ### Run or die - $\color{#55AE5B}{{Easy}}$ 
