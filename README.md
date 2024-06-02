@@ -13,7 +13,16 @@
 
 
 ## Introduction 
-Hi my name is Daniil, I am a developer specializing in different technologies, one of them is  Construct. I worked for Construct 2 Mentor for 4 years and here I will show you several of my projects.
+Hi my name is Daniil, I am a developer specializing in different technologies, one of them is Construct.
+
+My experience :
+1. Constuct 3 Developer in Nomoc(Qlpaze) for one year.
+2. Mentor of Constuct 2,3 in Eureka for 4 years, children 14-18 years old.
+
+Other experience:
+1. Java(Spring) + React developer for 4 months in NDA
+2. Java(Core) + Js junior developer for 3 mounts in ProfItSoft
+
 
 ## Important
 Each of the games follows this pattern:
@@ -37,7 +46,7 @@ Usually the development of one project takes 3-5 months, most games are written 
 ## Games
 ### Run or die - $\color{#55AE5B}{{Easy}}$ 
 #### A basic platformer with interesting traps and animations, there is also an enemy that will follow you.</br>
-![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/5f9af454-583b-4966-839e-582e18f78f26)
+
 
 
 ### Space shooter - $\color{#E3C678}{{Medium}}$
