@@ -15,7 +15,7 @@
 ## Introduction 
 Hi my name is Daniil, I am a developer specializing in different technologies, one of them is Construct.
 
-My experience :
+Experience :
 1. Constuct 3 Developer in Nomoc(Qlpaze) for one year.
 2. Mentor of Constuct 2,3 in Eureka for 4 years, children 14-18 years old.
 
@@ -33,9 +33,10 @@ Each of the games follows this pattern:
 5. The project architecture is clear
 6. Adapted to different screens
 
-All these games are commercial, they are either under development or the client has already received them
+All these games are commercial, they are still in development or customers have already received them
 
-Usually the development of one project takes 3-5 months, most games are written only by me, but some with the participation of more than one developer
+Usually the development of one project takes 3-5 months, sometimes there can be something easy, so it takes a month to fix the bugs, 
+some games were developed or modified only by me, some in a team with developers.
 
 ## Stack of technologies
 * [![Construct][Construct]][Construct-url]
@@ -44,45 +45,51 @@ Usually the development of one project takes 3-5 months, most games are written 
 
 
 ## Games
-### Run or die - $\color{#55AE5B}{{Easy}}$ 
-#### A basic platformer with interesting traps and animations, there is also an enemy that will follow you.</br>
+### $\color{#3B79F3}{{Secret Path Chronicles}}$ 
+#### A puzzle game in which you need to reach the flag by touching each block</br>
+![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/79a3d8ae-b03f-4171-b813-fd6c44a105a7)
 
 
 
-### Space shooter - $\color{#E3C678}{{Medium}}$
-#### Shooter with The Boss and enemies, The Boss has different modes and that is why he is dangerous. A lot of things was upgraded
-![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/84e225b3-0e55-48a7-8306-242966b5f32d)</br>
-#### This code was optimized, in tutorial it was awful</br> 
-![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/8d0304c8-3b50-4270-8c8a-7f4487284670)</br>
-#### What was in the tutorial:</br>
-![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/e9291605-17c5-4200-a1ee-f92647637e64)</br>
-#### This code is terrible ... The guy propose to use separate objects to interact with HP meteor, instead of it I used the loop
 
-### The water is coming - $\color{#55AE5B}{{Easy}}$ 
-#### Your diamond is very sensitive to water and may be destroyed from it, that is why you have to run away from the water
-![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/7e4ff752-856b-4c14-9bbd-dbb7ac6aade2)
+### $\color{#A87716}{{Card Craft}}$
+#### A card game in which the player in the role of a viking fights against another viking using cards. The essence of the game is to level up your character and skillfully use cards </br>
+![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/2609ca10-ce8a-48e6-a35b-40fb1d72c6d7)
 
 
-### Knife Hit - $\color{#E3C678}{{Medium}}$
-#### A very popular game, It has a lot of tutorials however without animation with apple and knife falling, in my game I have implemented these functionalities, and downloaded sprites from the original game.
-![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/27bb5b48-a771-4f3c-b7af-363c297e6ba1)
-
-### Bunny Jumper - $\color{#E3C678}{{Medium}}$
-#### Doodle jump but with bunny. 
-![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/dcef6669-90d2-4c3c-a762-741bc5c342cd)
+### $\color{#3946E9}{{Katamino}}$ 
+#### The player's task is to make a complete picture without a single hole
+![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/c6e4d022-be40-4ff5-b37a-7f951dd6c108)
 
 
-### Dino Chorome - $\color{#55AE5B}{{Easy}}$ 
-#### Enemies and traps threaten you, you must avoid them
-![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/0ea4bad4-faa3-4281-84f2-10ef00e7961f)
 
 
-### Space walk - $\color{#55AE5B}{{Easy}}$
-#### Your player loves space, but meteorites prevent them from enjoying it
-![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/b6c5daaa-8493-42ec-b89a-446ab4fe56f6)
+### $\color{#0EB81B}{{Head Soccer}}$
+#### A parody of the popular ball and heads game)
+![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/1bb74251-19e6-4266-9de4-3e0993ac51ac)
 
 
-### $\color{#FF0000}{{Hard}}$. Usually complex games are commercial projects and I can't show them here
+### $\color{#FFE107}{{GrabPack}}$
+#### This boy's hands can reach anywhere and steal anything you want 
+![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/601f77a0-46fe-445d-af20-23c731f8fdd0)
+
+
+
+### $\color{#3362B4}{{PipePuzzleConnect}}$
+#### A puzzle in which you need to adjust the pipeline so that the water reaches the target
+![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/e322f7d7-b91e-4931-8be5-c613054c6dfd)
+
+
+
+### $\color{#630968}{{StarShipFighter}}$
+#### A game that our company has been making for a year
+![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/6366b99b-75e5-492b-b9ca-21dce8281821)
+
+
+### $\color{#DC4354}{{AngryHeroes}}$
+#### Another parody of a popular game
+![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/798e0f8d-9bb9-452c-bfc7-934713cbd0fb)
+
 
 
 
