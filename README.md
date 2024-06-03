@@ -17,7 +17,7 @@ Hi my name is Daniil, I am a developer specializing in different technologies, o
 
 Experience :
 1. Constuct 3 Developer in Nomoc(Qlpaze) for one year.
-2. Mentor of Constuct 2,3 in Eureka for 4 years, children 14-18 years old.
+2. Mentor of Constuct 2,3 in Eureka for 4 years, children 14-17 years old.
 
 Other experience:
 1. Java(Spring) + React developer for 4 months in NDA
@@ -89,6 +89,12 @@ some games were developed or modified only by me, some in a team with developers
 ### $\color{#DC4354}{{AngryHeroes}}$
 #### Another parody of a popular game
 ![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/798e0f8d-9bb9-452c-bfc7-934713cbd0fb)
+
+### $\color{#4DC424}{{BrigeRun}}$
+#### Run and build, that's the main task of the game, the more platforms the better for the wallet
+![image](https://github.com/DaniilZotin/Construct-2-Summary/assets/85665335/a8413c2d-8085-4497-bb76-fe8d5af62001)
+
+
 
 
 
