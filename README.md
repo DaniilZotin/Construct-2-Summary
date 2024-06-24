@@ -16,7 +16,7 @@
 Hi my name is Daniil, I am a developer specializing in different technologies, one of them is Construct.
 
 Experience :
-1. Constuct 3 Developer in Nomoc(Qlpaze) for one year.
+1. Constuct 3 Developer in Nomoc(Qlpaze) for 5 months.
 2. Mentor of Constuct 2,3 in Eureka for 4 years, children 14-17 years old.
 
 Other experience:
